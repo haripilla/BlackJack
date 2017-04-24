@@ -112,7 +112,8 @@ namespace BlackJackNew
             {
                 Console.WriteLine(card);
             }
-            //Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
 
         }
 
